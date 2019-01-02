@@ -1,7 +1,7 @@
 {
   "name": "ts-collection",
   "version": "0.0.1",
-  "description": "",
+  "description": "Typescript collection utilities",
   "main": "dist/index.js",
   "types" : "dist/index.d.ts",
   "scripts": {
